@@ -21,9 +21,9 @@ iOS es un sistema operativo móvil que se utiliza para los disposivos iPhone y i
 
 Actualmente tenemos la versión 13.3 (Esperemos que para el 6 de Enero esa sea xd, si no sería 13.2.3).
 Existe por tanto versiones desde
-iPhone OS 1.0, iPhone OS 2.0, iPhone OS 3.0 y luego iOS 4 hasta el 12, y ahora iOS 13.
+iPhone OS 1.0, iPhone OS 2.0, iPhone OS 3.0 y luego iOS 4 hasta el 13, y ahora iOS 14.
 
-Podríamos mencionar todas las versiones de iOS pero solo se muestran las últimas características en **iOS 13**. 
+Podríamos mencionar todas las versiones de iOS pero solo se muestran las últimas características en **iOS 14**. 
 
 [Anexo: Historial de versiones de iOS](https://es.wikipedia.org/wiki/Anexo:Historial_de_versiones_de_iOS)
 
@@ -154,13 +154,13 @@ En escencia para instalar **Python, PHP nativo, MySQL**, y entre más cosas como
 
 
 ```console
-MacBook-Pro-de-Sam:~$ brew install <Lo que quieras instalar>
+MacBook-Pro-de-John:~$ brew install <Lo que quieras instalar>
 ```
 
 Para poder instalar homebrew necesitarás colocar ésto en tu terminal. Lo usaremos mucho en éste curso y lo usarás mucho si serás desarrollador en general.
 
 ```console
-MacBook-Pro-de-Sam:~$ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+MacBook-Pro-de-John:~$ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ```
 
 <p>
